@@ -1,0 +1,20 @@
+header {
+    text-align: center;
+    color:rgba(243, 98, 175, 0.966);
+    font-size: 25px;
+    background-color: rgba(212, 210, 210, 0.948);
+    font-family:'Times New Roman', Times, serif;
+}
+h3, h2, footer {
+    text-align: center;
+}
+img{
+    width: 700px;
+    margin-left: 80px;
+}
+main {
+    background-color: rgb(245, 211, 241);
+}
+p {
+    padding-left:20px; 
+}
